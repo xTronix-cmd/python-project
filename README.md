@@ -1,4 +1,4 @@
 # Games
 
-# Description!
+Description!
 Games available: Battleship, Wordplay, and Hangman
